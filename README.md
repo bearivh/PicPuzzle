@@ -1,6 +1,20 @@
 # PicPuzzle
 Automatically stitches multiple overlapping images into a single large image
 
+## 입력 이미지
+
+<table>
+  <tr>
+    <td><img src="image1.jpg" width="130"/></td>
+    <td><img src="image2.jpg" width="130"/></td>
+    <td><img src="image3.jpg" width="130"/></td>
+    <td><img src="image4.jpg" width="130"/></td>
+    <td><img src="image5.jpg" width="130"/></td>
+    <td><img src="image6.jpg" width="130"/></td>
+    <td><img src="image7.jpg" width="130"/></td>
+  </tr>
+</table>
+
 ## 결과
 
 ![Result](result.jpg)
